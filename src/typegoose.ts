@@ -23,7 +23,7 @@ export * from './queryMethod';
 export * from './typeguards';
 export * as defaultClasses from './defaultClasses';
 export * as errors from './internal/errors';
-export * as types from './types';
+// export * as types from './types';
 export { DocumentType, Ref, ReturnModelType };
 export { getClassForDocument, getClass, getName } from './internal/utils';
 export { Severity } from './internal/constants';
