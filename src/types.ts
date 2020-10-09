@@ -1,4 +1,3 @@
-import 'reflect-metadata';
 import type * as mongoose from 'mongoose';
 
 import type { Base } from './defaultClasses';
