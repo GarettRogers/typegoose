@@ -1,5 +1,6 @@
+import * as mongoose from 'mongoose';
 import { logger } from '../logSettings';
-import { buildSchema, mongoose } from '../typegoose';
+import { buildSchema } from '../buildSchema';
 import {
   AnyParamConstructor,
   DecoratedPropertyMetadata,

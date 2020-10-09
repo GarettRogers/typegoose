@@ -102,7 +102,7 @@
     "no-trailing-whitespace": true,
     "await-promise": true,
     "no-console": true,
-    "ordered-imports": true,
+    "ordered-imports": false,
     "deprecation": true,
     "curly": true,
     "no-unnecessary-else": true,
