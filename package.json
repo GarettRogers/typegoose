@@ -38,7 +38,8 @@
   "license": "MIT",
   "peerDependencies": {
     "mongoose": "^5.10.4",
-    "@types/mongoose": "^5.7.36"
+    "@types/mongoose": "^5.7.36",
+    "@typegoose/typegoose.types": "git+https://github.com/GarettRogers/typegoose.types.git"
   },
   "devDependencies": {
     "@types/jest": "^26.0.14",
